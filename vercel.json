@@ -14,6 +14,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
+        "APP_KEY": "base64:W4sq+gn+tLdbKZ9HQnjCLoZPpS4jhzFYehXKHtuh1YY=",
         "APP_URL": "https://bjorwi-chatbot.vercel.app/",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
