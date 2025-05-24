@@ -372,7 +372,6 @@
                 // Re-enable input dan button
                 input.disabled = false;
                 sendButton.disabled = false;
-                input.focus();
             }
         }
 
